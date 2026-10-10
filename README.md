@@ -1,4 +1,4 @@
-# C-Temperature-Converter
+# C++-Temperature-Converter
 A c++ code to convert temperature types
 
 Learining c++ and Im makin some little programs
